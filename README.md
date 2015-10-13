@@ -1,6 +1,6 @@
 # Complete-Python-Bootcamp
 
-## Welcome to the Repository for the Complete Python Bootcamp Course!
+## Welcome to the Repository for the Complete Python Bootcamp!
 
 This is the Repository for the Udemy course - "Complete Python Bootcamp".
 
