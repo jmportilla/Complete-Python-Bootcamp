@@ -126,6 +126,9 @@ Text
 Networking
 ---------
 
+**Page Scraper** An application to pull out all links from a webpage.
+[[clarmso (Python)]](https://gist.github.com/clarmso/969ea7d538b29f465759cdbb3822c9b6)
+
 **FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever. [[rnikhil275(Python)]](https://github.com/rnikhil275/scripts/blob/master/ftp.py)
 
 **Bandwidth Monitor** - A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it. 
