@@ -126,7 +126,7 @@ Text
 Networking
 ---------
 
-**Page Scraper** An application to pull out all links from a webpage.
+**Page Scraper** - An application to pull out all links from a webpage.
 [[clarmso (Python)]](https://gist.github.com/clarmso/969ea7d538b29f465759cdbb3822c9b6)
 
 **FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever. [[rnikhil275(Python)]](https://github.com/rnikhil275/scripts/blob/master/ftp.py)
